@@ -1,1 +1,2 @@
-# for-practical-work
+1$ git clone [github-url] [README]
+2$ cd [README]
